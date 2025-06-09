@@ -1,7 +1,7 @@
 # Advanced Blood Group Calculator
 
 <p align="center">
-  <a href="https://blood-group-calculator.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> •
+  <a href="https://blood-kappa.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> •
   <a href="https://github.com/sabbir073/blood-group-calculator/releases"><b>📦 Releases</b></a>
 </p>
 
